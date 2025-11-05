@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "title": "اتصل - مدونتي",
+    "description": "تواصل معي للأسئلة أو التعاون أو فقط لقول مرحباً"
+  },
+  "hero": {
+    "title": "تواصل معي",
+    "subtitle": "يسعدني سماع رأيك"
+  },
+  "content": {
+    "intro": "هل لديك سؤال أو اقتراح أو تريد فقط قول مرحباً؟ لا تتردد في التواصل!",
+    "email": {
+      "label": "البريد الإلكتروني",
+      "value": "hello@myblog.com"
+    },
+    "social": {
+      "title": "تابعني",
+      "platforms": [
+        {
+          "name": "GitHub",
+          "url": "github.com/username"
+        },
+        {
+          "name": "Twitter",
+          "url": "twitter.com/username"
+        },
+        {
+          "name": "LinkedIn",
+          "url": "linkedin.com/in/username"
+        }
+      ]
+    },
+    "closing": "عادة ما أرد خلال {hours} ساعة. أتطلع للتواصل معك!",
+    "responseTime": {
+      "hours": 48
+    }
+  }
+}

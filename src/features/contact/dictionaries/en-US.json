@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "title": "Contact - My Blog",
+    "description": "Get in touch with me for questions, collaborations, or just to say hello"
+  },
+  "hero": {
+    "title": "Get in Touch",
+    "subtitle": "I'd love to hear from you"
+  },
+  "content": {
+    "intro": "Have a question, suggestion, or just want to say hello? Feel free to reach out!",
+    "email": {
+      "label": "Email",
+      "value": "hello@myblog.com"
+    },
+    "social": {
+      "title": "Follow Me",
+      "platforms": [
+        {
+          "name": "GitHub",
+          "url": "github.com/username"
+        },
+        {
+          "name": "Twitter",
+          "url": "twitter.com/username"
+        },
+        {
+          "name": "LinkedIn",
+          "url": "linkedin.com/in/username"
+        }
+      ]
+    },
+    "closing": "I typically respond within {hours} hours. Looking forward to connecting with you!",
+    "responseTime": {
+      "hours": 48
+    }
+  }
+}

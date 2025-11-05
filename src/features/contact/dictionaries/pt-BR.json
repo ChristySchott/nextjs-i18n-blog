@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "title": "Contato - Meu Blog",
+    "description": "Entre em contato comigo para perguntas, colaborações ou apenas para dizer olá"
+  },
+  "hero": {
+    "title": "Entre em Contato",
+    "subtitle": "Adoraria ouvir de você"
+  },
+  "content": {
+    "intro": "Tem uma pergunta, sugestão ou só quer dizer olá? Fique à vontade para entrar em contato!",
+    "email": {
+      "label": "E-mail",
+      "value": "ola@meublog.com"
+    },
+    "social": {
+      "title": "Me Siga",
+      "platforms": [
+        {
+          "name": "GitHub",
+          "url": "github.com/usuario"
+        },
+        {
+          "name": "Twitter",
+          "url": "twitter.com/usuario"
+        },
+        {
+          "name": "LinkedIn",
+          "url": "linkedin.com/in/usuario"
+        }
+      ]
+    },
+    "closing": "Geralmente respondo em {hours} horas. Ansioso para me conectar com você!",
+    "responseTime": {
+      "hours": 48
+    }
+  }
+}

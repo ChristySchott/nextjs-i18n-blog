@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "title": "Sobre - Meu Blog",
+    "description": "Saiba mais sobre mim, minhas habilidades e minha paixão pelo desenvolvimento de software"
+  },
+  "hero": {
+    "title": "Sobre Mim",
+    "subtitle": "Desenvolvedor de software, escritor e eterno aprendiz"
+  },
+  "content": {
+    "introduction": "Olá! Sou um desenvolvedor de software apaixonado por criar soluções elegantes para problemas complexos.",
+    "mission": "Minha missão é compartilhar conhecimento e ajudar outros a crescerem em sua jornada de desenvolvimento. Através deste blog, escrevo sobre desenvolvimento web, boas práticas e lições aprendidas em projetos reais.",
+    "skills": {
+      "title": "O Que Eu Trabalho",
+      "items": [
+        "React & Next.js",
+        "TypeScript & JavaScript",
+        "Node.js & Express",
+        "Design de Banco de Dados",
+        "Design UI/UX",
+        "Arquitetura Cloud"
+      ]
+    },
+    "closing": "Quando não estou codificando, você pode me encontrar explorando novas tecnologias, contribuindo para código aberto ou curtindo um bom livro.",
+    "stats": {
+      "experience": {
+        "value": 5,
+        "label": {
+          "one": "{count} ano de experiência",
+          "other": "{count} anos de experiência"
+        }
+      },
+      "projects": {
+        "value": 50,
+        "label": {
+          "one": "{count} projeto concluído",
+          "other": "{count} projetos concluídos"
+        }
+      }
+    }
+  }
+}

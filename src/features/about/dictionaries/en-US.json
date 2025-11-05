@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "title": "About - My Blog",
+    "description": "Learn more about me, my skills, and my passion for software development"
+  },
+  "hero": {
+    "title": "About Me",
+    "subtitle": "Software developer, writer, and lifelong learner"
+  },
+  "content": {
+    "introduction": "Hello! I'm a passionate software developer with a love for creating elegant solutions to complex problems.",
+    "mission": "My mission is to share knowledge and help others grow in their development journey. Through this blog, I write about web development, best practices, and lessons learned from real-world projects.",
+    "skills": {
+      "title": "What I Work With",
+      "items": [
+        "React & Next.js",
+        "TypeScript & JavaScript",
+        "Node.js & Express",
+        "Database Design",
+        "UI/UX Design",
+        "Cloud Architecture"
+      ]
+    },
+    "closing": "When I'm not coding, you can find me exploring new technologies, contributing to open source, or enjoying a good book.",
+    "stats": {
+      "experience": {
+        "value": 5,
+        "label": {
+          "one": "{count} year of experience",
+          "other": "{count} years of experience"
+        }
+      },
+      "projects": {
+        "value": 50,
+        "label": {
+          "one": "{count} project completed",
+          "other": "{count} projects completed"
+        }
+      }
+    }
+  }
+}

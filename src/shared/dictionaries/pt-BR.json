@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "title": "Meu Blog - Desenvolvimento Web & Tecnologia",
+    "description": "Um blog moderno sobre desenvolvimento web, React, TypeScript e engenharia de software"
+  },
+  "header": {
+    "siteTitle": "Meu Blog",
+    "navigation": {
+      "home": "Início",
+      "about": "Sobre",
+      "blog": "Blog",
+      "contact": "Contato"
+    }
+  },
+  "footer": {
+    "copyright": "© {year} Meu Blog. Todos os direitos reservados.",
+    "madeWith": "Feito com Next.js e TypeScript"
+  },
+  "home": {
+    "hero": {
+      "title": "Bem-vindo ao Meu Blog",
+      "subtitle": "Explorando ideias, compartilhando conhecimento e construindo conexões",
+      "cta": "Ler Últimos Posts"
+    },
+    "featured": {
+      "title": "Posts em Destaque",
+      "viewAll": "Ver todos os {count} artigos",
+      "posts": [
+        {
+          "title": "Começando com Next.js 16",
+          "excerpt": "Aprenda a construir aplicações web modernas com a versão mais recente do Next.js e React 19.",
+          "date": "2025-11-01"
+        },
+        {
+          "title": "Dominando TypeScript",
+          "excerpt": "Mergulhe profundamente em padrões avançados de TypeScript e melhores práticas para aplicações type-safe.",
+          "date": "2025-10-28"
+        },
+        {
+          "title": "Internacionalização Facilitada",
+          "excerpt": "Um guia prático para implementar i18n em suas aplicações Next.js sem bibliotecas externas.",
+          "date": "2025-10-25"
+        }
+      ]
+    }
+  }
+}

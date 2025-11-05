@@ -1,0 +1,139 @@
+{
+  "header": {
+    "siteTitle": "My Blog",
+    "navigation": {
+      "home": "Home",
+      "about": "About",
+      "blog": "Blog",
+      "contact": "Contact"
+    }
+  },
+  "footer": {
+    "copyright": "© {year} My Blog. All rights reserved.",
+    "madeWith": "Made with Next.js and TypeScript"
+  },
+  "home": {
+    "hero": {
+      "title": "Welcome to My Blog",
+      "subtitle": "Exploring ideas, sharing knowledge, and building connections",
+      "cta": "Read Latest Posts"
+    },
+    "featured": {
+      "title": "Featured Posts",
+      "posts": [
+        {
+          "title": "Getting Started with Next.js 16",
+          "excerpt": "Learn how to build modern web applications with the latest version of Next.js and React 19.",
+          "date": "November 1, 2025"
+        },
+        {
+          "title": "Mastering TypeScript",
+          "excerpt": "Deep dive into advanced TypeScript patterns and best practices for type-safe applications.",
+          "date": "October 28, 2025"
+        },
+        {
+          "title": "Internationalization Made Easy",
+          "excerpt": "A practical guide to implementing i18n in your Next.js applications without external libraries.",
+          "date": "October 25, 2025"
+        }
+      ]
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "About Me",
+      "subtitle": "Software developer, writer, and lifelong learner"
+    },
+    "content": {
+      "introduction": "Hello! I'm a passionate software developer with a love for creating elegant solutions to complex problems.",
+      "mission": "My mission is to share knowledge and help others grow in their development journey. Through this blog, I write about web development, best practices, and lessons learned from real-world projects.",
+      "skills": {
+        "title": "What I Work With",
+        "items": [
+          "React & Next.js",
+          "TypeScript & JavaScript",
+          "Node.js & Express",
+          "Database Design",
+          "UI/UX Design",
+          "Cloud Architecture"
+        ]
+      },
+      "closing": "When I'm not coding, you can find me exploring new technologies, contributing to open source, or enjoying a good book."
+    }
+  },
+  "blog": {
+    "hero": {
+      "title": "Blog",
+      "subtitle": "Thoughts, tutorials, and insights on web development"
+    },
+    "articles": [
+      {
+        "title": "Building Scalable React Applications",
+        "excerpt": "Learn architectural patterns and best practices for building React applications that can grow with your needs.",
+        "date": "November 5, 2025",
+        "category": "React"
+      },
+      {
+        "title": "Getting Started with Next.js 16",
+        "excerpt": "A comprehensive guide to the latest features in Next.js 16, including App Router improvements and React 19 integration.",
+        "date": "November 1, 2025",
+        "category": "Next.js"
+      },
+      {
+        "title": "Mastering TypeScript",
+        "excerpt": "Deep dive into advanced TypeScript patterns, utility types, and techniques for writing type-safe code.",
+        "date": "October 28, 2025",
+        "category": "TypeScript"
+      },
+      {
+        "title": "Internationalization Made Easy",
+        "excerpt": "Practical approaches to implementing internationalization in Next.js applications using native solutions.",
+        "date": "October 25, 2025",
+        "category": "i18n"
+      },
+      {
+        "title": "Modern CSS with Tailwind",
+        "excerpt": "Exploring utility-first CSS with Tailwind and how it improves development workflow and maintainability.",
+        "date": "October 20, 2025",
+        "category": "CSS"
+      },
+      {
+        "title": "API Design Best Practices",
+        "excerpt": "Guidelines for designing RESTful APIs that are intuitive, scalable, and maintainable.",
+        "date": "October 15, 2025",
+        "category": "Backend"
+      }
+    ]
+  },
+  "contact": {
+    "hero": {
+      "title": "Get in Touch",
+      "subtitle": "I'd love to hear from you"
+    },
+    "content": {
+      "intro": "Have a question, suggestion, or just want to say hello? Feel free to reach out!",
+      "email": {
+        "label": "Email",
+        "value": "hello@myblog.com"
+      },
+      "social": {
+        "title": "Follow Me",
+        "platforms": [
+          {
+            "name": "GitHub",
+            "url": "github.com/username"
+          },
+          {
+            "name": "Twitter",
+            "url": "twitter.com/username"
+          },
+          {
+            "name": "LinkedIn",
+            "url": "linkedin.com/in/username"
+          }
+        ]
+      },
+      "closing": "I typically respond within 24-48 hours. Looking forward to connecting with you!"
+    }
+  }
+}

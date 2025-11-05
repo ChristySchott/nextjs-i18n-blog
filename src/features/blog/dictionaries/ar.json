@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "title": "المدونة - مدونتي",
+    "description": "اقرأ أحدث مقالاتنا حول تطوير الويب وReact وTypeScript والمزيد"
+  },
+  "hero": {
+    "title": "المدونة",
+    "subtitle": "أفكار ودروس ورؤى حول تطوير الويب"
+  },
+  "articles": [
+    {
+      "title": "بناء تطبيقات React قابلة للتوسع",
+      "excerpt": "تعلم الأنماط المعمارية وأفضل الممارسات لبناء تطبيقات React التي يمكن أن تنمو مع احتياجاتك.",
+      "date": "2025-11-05",
+      "category": "React",
+      "readTime": 8
+    },
+    {
+      "title": "البدء مع Next.js 16",
+      "excerpt": "دليل شامل لأحدث ميزات Next.js 16، بما في ذلك تحسينات App Router والتكامل مع React 19.",
+      "date": "2025-11-01",
+      "category": "Next.js",
+      "readTime": 12
+    },
+    {
+      "title": "إتقان TypeScript",
+      "excerpt": "الغوص العميق في أنماط TypeScript المتقدمة وأنواع الأدوات وتقنيات كتابة التعليمات البرمجية الآمنة من حيث النوع.",
+      "date": "2025-10-28",
+      "category": "TypeScript",
+      "readTime": 15
+    },
+    {
+      "title": "التدويل أصبح سهلاً",
+      "excerpt": "نهج عملي لتطبيق التدويل في تطبيقات Next.js باستخدام الحلول الأصلية.",
+      "date": "2025-10-25",
+      "category": "i18n",
+      "readTime": 10
+    },
+    {
+      "title": "CSS الحديث مع Tailwind",
+      "excerpt": "استكشاف CSS المستندة إلى الأدوات مع Tailwind وكيف يحسن سير عمل التطوير وقابلية الصيانة.",
+      "date": "2025-10-20",
+      "category": "CSS",
+      "readTime": 7
+    },
+    {
+      "title": "أفضل ممارسات تصميم API",
+      "excerpt": "إرشادات لتصميم واجهات برمجة تطبيقات RESTful بديهية وقابلة للتوسع وسهلة الصيانة.",
+      "date": "2025-10-15",
+      "category": "Backend",
+      "readTime": 11
+    }
+  ],
+  "readTime": {
+    "one": "{count} دقيقة قراءة",
+    "other": "{count} دقائق قراءة"
+  },
+  "articlesCount": {
+    "zero": "لا توجد مقالات بعد",
+    "one": "مقالة واحدة",
+    "other": "{count} مقالات"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "title": "Blog - My Blog",
+    "description": "Read our latest articles on web development, React, TypeScript, and more"
+  },
+  "hero": {
+    "title": "Blog",
+    "subtitle": "Thoughts, tutorials, and insights on web development"
+  },
+  "articles": [
+    {
+      "title": "Building Scalable React Applications",
+      "excerpt": "Learn architectural patterns and best practices for building React applications that can grow with your needs.",
+      "date": "2025-11-05",
+      "category": "React",
+      "readTime": 8
+    },
+    {
+      "title": "Getting Started with Next.js 16",
+      "excerpt": "A comprehensive guide to the latest features in Next.js 16, including App Router improvements and React 19 integration.",
+      "date": "2025-11-01",
+      "category": "Next.js",
+      "readTime": 12
+    },
+    {
+      "title": "Mastering TypeScript",
+      "excerpt": "Deep dive into advanced TypeScript patterns, utility types, and techniques for writing type-safe code.",
+      "date": "2025-10-28",
+      "category": "TypeScript",
+      "readTime": 15
+    },
+    {
+      "title": "Internationalization Made Easy",
+      "excerpt": "Practical approaches to implementing internationalization in Next.js applications using native solutions.",
+      "date": "2025-10-25",
+      "category": "i18n",
+      "readTime": 10
+    },
+    {
+      "title": "Modern CSS with Tailwind",
+      "excerpt": "Exploring utility-first CSS with Tailwind and how it improves development workflow and maintainability.",
+      "date": "2025-10-20",
+      "category": "CSS",
+      "readTime": 7
+    },
+    {
+      "title": "API Design Best Practices",
+      "excerpt": "Guidelines for designing RESTful APIs that are intuitive, scalable, and maintainable.",
+      "date": "2025-10-15",
+      "category": "Backend",
+      "readTime": 11
+    }
+  ],
+  "readTime": {
+    "one": "{count} minute read",
+    "other": "{count} minutes read"
+  },
+  "articlesCount": {
+    "zero": "No articles yet",
+    "one": "1 article",
+    "other": "{count} articles"
+  }
+}

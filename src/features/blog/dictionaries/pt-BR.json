@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "title": "Blog - Meu Blog",
+    "description": "Leia nossos últimos artigos sobre desenvolvimento web, React, TypeScript e muito mais"
+  },
+  "hero": {
+    "title": "Blog",
+    "subtitle": "Pensamentos, tutoriais e insights sobre desenvolvimento web"
+  },
+  "articles": [
+    {
+      "title": "Construindo Aplicações React Escaláveis",
+      "excerpt": "Aprenda padrões arquiteturais e melhores práticas para construir aplicações React que podem crescer com suas necessidades.",
+      "date": "2025-11-05",
+      "category": "React",
+      "readTime": 8
+    },
+    {
+      "title": "Começando com Next.js 16",
+      "excerpt": "Um guia abrangente sobre os recursos mais recentes do Next.js 16, incluindo melhorias no App Router e integração com React 19.",
+      "date": "2025-11-01",
+      "category": "Next.js",
+      "readTime": 12
+    },
+    {
+      "title": "Dominando TypeScript",
+      "excerpt": "Mergulhe profundamente em padrões avançados de TypeScript, tipos utilitários e técnicas para escrever código type-safe.",
+      "date": "2025-10-28",
+      "category": "TypeScript",
+      "readTime": 15
+    },
+    {
+      "title": "Internacionalização Facilitada",
+      "excerpt": "Abordagens práticas para implementar internacionalização em aplicações Next.js usando soluções nativas.",
+      "date": "2025-10-25",
+      "category": "i18n",
+      "readTime": 10
+    },
+    {
+      "title": "CSS Moderno com Tailwind",
+      "excerpt": "Explorando CSS utility-first com Tailwind e como ele melhora o fluxo de trabalho de desenvolvimento e manutenibilidade.",
+      "date": "2025-10-20",
+      "category": "CSS",
+      "readTime": 7
+    },
+    {
+      "title": "Melhores Práticas de Design de API",
+      "excerpt": "Diretrizes para projetar APIs RESTful que são intuitivas, escaláveis e fáceis de manter.",
+      "date": "2025-10-15",
+      "category": "Backend",
+      "readTime": 11
+    }
+  ],
+  "readTime": {
+    "one": "{count} minuto de leitura",
+    "other": "{count} minutos de leitura"
+  },
+  "articlesCount": {
+    "zero": "Nenhum artigo ainda",
+    "one": "1 artigo",
+    "other": "{count} artigos"
+  }
+}
